@@ -9,4 +9,8 @@ public class GitTest {
         System.out.println("Hello my first git");
         System.out.println("Hello my first git");
     }
+    public void test(int i) {
+        System.out.println("my first method "+i);
+    }
+
 }
